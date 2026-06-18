@@ -36,7 +36,9 @@ Voor visualisatie is een volcano plot gegenereerd met EnhancedVolcano. Daarnaast
 <p align="center">
   <img src="Resultaten/Rplot - dotplot kegg png.png" width="49%" />
   <img src="Resultaten/Rplot - balken.kegg.png" width="49%" />
-</p>
+</p> 
+
+*Figuur 2. KEGG-analyse van differentieel tot expressie gebrachte genen tussen RA-patiënten en een gezonde controle. (Links) Dotplot van de verrijkte KEGG-pathways, waarbij de grootte van de punten het aantal genen per pathway weergeeft en de kleur de gecorrigeerde p-waarde representeert. (Rechts) Barplot van de meest verrijkte KEGG-pathways, weergegeven op basis van het aantal tot expressie gebrachte genen.*
 
 ### Go-Analyse
 ![Dotplot Go-analyse](Resultaten/Rplot%20-%20go.analyse.dotplot.png)
