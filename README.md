@@ -1,6 +1,6 @@
 
 
-## J2P4 Project
+## Rheuma artritis - Transcriptomics - J2P4 Project 
 
 ## Inleiding
 
