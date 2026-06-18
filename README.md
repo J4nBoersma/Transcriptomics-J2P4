@@ -30,8 +30,8 @@ Voor visualisatie is een volcano plot gegenereerd met EnhancedVolcano. Daarnaast
 
 ### Kegg-Analyse
 <p align="center">
-  <img src="images/dotplot.png" width="49%" />
-  <img src="images/barplot.png" width="49%" />
+  <img src="Resultaten/dotplot.png" width="49%" />
+  <img src="Resultaten/barplot.png" width="49%" />
 </p>
 
 ### Go-Analyse
