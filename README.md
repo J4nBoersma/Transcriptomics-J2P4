@@ -21,4 +21,10 @@ Daarnaast wordt een Gene Ontology (GO)-analyse uitgevoerd om biologische process
 ## Kegg-Analyse
 ![Dotplot Kegg-analyse](Resultaten/Rplot%20-%20dotplot%20kegg%20png.png)
 
-![Barplot Kegg-analyse](Resultaten/Rplot%20-%20balken.kegg.png))
+![Barplot Kegg-analyse](Resultaten/Rplot%20-%20balken.kegg.png)
+
+## Go-Analyse
+![Dotplot Go-analyse](Resultaten/Rplot%20-%20go.analyse.dotplot.png)
+
+## Pathwayview-Analyse
+![Pathwayview-Analyse](Resultaten/hsa04621.pathview.png)
