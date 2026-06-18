@@ -29,9 +29,10 @@ Voor visualisatie is een volcano plot gegenereerd met EnhancedVolcano. Daarnaast
 ![Volcano plot](Resultaten/Vulcanoplot-WC3.png)
 
 ### Kegg-Analyse
-![Dotplot Kegg-analyse](Resultaten/Rplot%20-%20dotplot%20kegg%20png.png)
-
-![Barplot Kegg-analyse](Resultaten/Rplot%20-%20balken.kegg.png)
+<p align="center">
+  <img src="images/dotplot.png" width="49%" />
+  <img src="images/barplot.png" width="49%" />
+</p>
 
 ### Go-Analyse
 ![Dotplot Go-analyse](Resultaten/Rplot%20-%20go.analyse.dotplot.png)
