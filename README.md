@@ -4,11 +4,9 @@
 
 ## Inleiding
 
-Reumatoïde artritis (RA) is een systemische auto-immuunziekte die wordt gekenmerkt door ontsteking van het gewrichtsslijmvlies (synovitis), wat kan leiden tot gewrichtsschade. De exacte oorzaak van RA is nog niet bekend, maar genetische factoren, omgevingsfactoren en verstoringen van het immuunsysteem spelen waarschijnlijk een rol.
-
-In dit project wordt een transcriptomicsanalyse uitgevoerd op RNA-sequencingdata van synoviumbiopten afkomstig van vier RA-patiënten en vier gezonde controles. Met behulp van R worden verschillen in genexpressie tussen beide groepen onderzocht om genen te identificeren die mogelijk betrokken zijn bij het ziekteproces.
-
-Daarnaast wordt een Gene Ontology (GO)-analyse uitgevoerd om biologische processen en pathways te identificeren die een rol spelen bij de ontwikkeling en progressie van RA.
+Reumatoïde artritis (RA) is een chronische systemische auto-immuunziekte die wordt gekenmerkt door persisterende synovitis, een ontsteking van het gewrichtsslijmvlies. Deze ontsteking leidt tot progressieve gewrichtsschade, waaronder erosie van kraakbeen en bot, wat uiteindelijk kan resulteren in functieverlies en invaliditeit. De pathogenese van RA is complex en ontstaat door een samenspel van genetische aanleg, omgevingsfactoren en een ontregeld immuunsysteem. Hierbij spelen immuuncellen zoals T-cellen en B-cellen een centrale rol in het ontstekingsproces en de productie van autoantistoffen (Firestein et al., 2017).
+Een belangrijk kenmerk van RA is de aanwezigheid van autoantistoffen zoals ACPA (anti-citrullinated protein antibodies), die vaak al jaren vóór het ontstaan van klinische symptomen aanwezig kunnen zijn. Vroege diagnose en behandeling zijn essentieel om blijvende gewrichtsschade te beperken. Hoewel therapieën zoals DMARD’s de ziekteactiviteit kunnen remmen, blijft RA ongeneeslijk en is er behoefte aan beter inzicht in de moleculaire mechanismen achter de ziekte (Smolen et al., 2018).
+Transcriptomics biedt hiervoor een krachtige methode om verschillen in genexpressie in ontstoken synovium te analyseren. Door middel van RNA-sequencing kunnen genen worden geïdentificeerd die differentieel tot expressie komen tussen RA-patiënten en controles. Vervolgens kan met Gene Ontology-analyse worden bepaald welke biologische processen en pathways betrokken zijn bij de ziekteontwikkeling.
 
 ## Methode
 <img width="1536" height="1024" alt="ChatGPT Image Jun 18, 2026 at 01_59_02 PM" src="https://github.com/user-attachments/assets/06ed6154-cc72-489e-8a4f-5b4f23e5d839" />
