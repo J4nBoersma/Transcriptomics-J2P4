@@ -32,5 +32,8 @@ Daarnaast wordt een Gene Ontology (GO)-analyse uitgevoerd om biologische process
 
 ### Pathwayview-Analyse
 ![Pathwayview-Analyse](Resultaten/hsa04621.pathview.png)
+### Pathwayview-Ingezoomed
+<img width="1492" height="859" alt="hsa05323 pathview" src="https://github.com/user-attachments/assets/d929a8cf-6384-4a88-8edf-d15b7a15beb5" />
+
 
 ## Conclusie
