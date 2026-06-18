@@ -11,6 +11,8 @@ In dit project wordt een transcriptomicsanalyse uitgevoerd op RNA-sequencingdata
 Daarnaast wordt een Gene Ontology (GO)-analyse uitgevoerd om biologische processen en pathways te identificeren die een rol spelen bij de ontwikkeling en progressie van RA.
 
 ## Methode
+<img width="1536" height="1024" alt="ChatGPT Image Jun 18, 2026 at 01_59_02 PM" src="https://github.com/user-attachments/assets/06ed6154-cc72-489e-8a4f-5b4f23e5d839" />
+
 
 Voor dit onderzoek is gebruikgemaakt van RNA-sequencing (RNA-seq) data afkomstig van synoviumbiopten. De dataset bestaat uit acht samples: vier van controles zonder reumatoïde artritis (RA) en vier van RA-patiënten met een ziekteduur van >12 maanden. Alle patiënten waren ACPA-positief, terwijl controles ACPA-negatief waren. De data zijn afkomstig uit Platzer et al. (2019).
 
