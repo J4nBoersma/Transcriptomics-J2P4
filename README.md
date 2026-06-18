@@ -30,6 +30,8 @@ Voor visualisatie is een volcano plot gegenereerd met EnhancedVolcano. Daarnaast
 
 ![Volcano plot](Resultaten/Vulcanoplot-WC3.png)
 
+*Figuur 1. Volcano plot van de differentiële genexpressieanalyse tussen synoviumbiopten van RA-patiënten (n = 4) en gezonde controles (n = 4), uitgevoerd met DESeq2. De x-as geeft de log₂ fold change weer en de y-as de −log₁₀ p-waarde. Rode punten vertegenwoordigen genen met een significante verandering in expressie.*
+
 ### Kegg-Analyse
 <p align="center">
   <img src="Resultaten/Rplot - dotplot kegg png.png" width="49%" />
