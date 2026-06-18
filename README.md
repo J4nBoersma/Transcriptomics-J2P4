@@ -43,6 +43,10 @@ Voor visualisatie is een volcano plot gegenereerd met EnhancedVolcano. Daarnaast
 ### Go-Analyse
 ![Dotplot Go-analyse](Resultaten/Rplot%20-%20go.analyse.dotplot.png)
 
+
+*Figuur 3. GO-enrichmentanalyse van differentieel tot expressie komende genen in synovium (RA vs. controle). De dotplot toont significante verrijkte biologische processen (padj < 0,05). De x-as geeft de GeneRatio weer, de grootte van de punten het aantal genen per term en de kleur de significantie.*
+
+
 ### Pathwayview-Analyse
 <p align="center">
   <img src="Resultaten/hsa05323.png" width="49%" />
