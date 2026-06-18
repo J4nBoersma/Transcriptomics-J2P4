@@ -25,6 +25,8 @@ Voor visualisatie is een volcano plot gegenereerd met EnhancedVolcano. Daarnaast
 
 
 ### Volcano plot
+De volcano plot toont meerdere significant differentieel geëxpresseerde genen tussen RA-patiënten en gezonde controles. Genen zoals *SRGN*, *BCL2A1* en *CXCR1* vertonen een verhoogde expressie in RA, terwijl *ANKRD30BL*, *MT-ND6* en *SLC9A3R2* juist een verlaagde expressie laten zien. Daarnaast lijkt het aantal significant neer-gereguleerde genen groter dan het aantal sterk op-gereguleerde genen. Deze resultaten wijzen op duidelijke veranderingen in genexpressie binnen het synoviale weefsel van RA-patiënten.
+
 
 ![Volcano plot](Resultaten/Vulcanoplot-WC3.png)
 
