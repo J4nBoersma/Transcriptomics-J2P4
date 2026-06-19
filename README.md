@@ -72,3 +72,8 @@ Om de differentiële genexpressie binnen de context van een bekende ziekteroute 
 
 ---
 ## Conclusie
+In dit onderzoek werd de genexpressie van vier vrouwen met reumatoïde artritis (RA) vergeleken met die van vier gezonde vrouwelijke controles door middel van differentiële expressieanalyse. Hierbij werden 4.572 genen geïdentificeerd die significant verschillend tot expressie kwamen tussen beide groepen. Deze set van differentieel tot expressie komende genen vormde de basis voor de Gene Ontology (GO)- en KEGG-pathwayanalyses.
+De GO-analyse toonde aan dat vooral biologische processen gerelateerd aan de immuunrespons significant verrijkt waren. Hierbij ging het onder andere om lymfocytdifferentiatie, T-celdifferentiatie en B-celactivatie. De KEGG-pathwayanalyse liet eveneens een verrijking zien van verschillende ontstekings- en immuungerelateerde signaalroutes, waaronder de MAPK-, NF-κB-, TNF-, IL-17- en NOD-like receptor signaling pathways.
+Daarnaast liet de Pathview-visualisatie van de Rheumatoid arthritis-pathway zien dat meerdere genen die betrokken zijn bij de pathogenese van RA differentieel tot expressie kwamen. Zo werd een verhoogde expressie waargenomen voor IL1A, IL1B, TNF en MMP3, terwijl IL6, IL23, CXCL8, MMP1, MMP14 en VEGFA juist een verlaagde expressie vertoonden.
+Op basis van deze resultaten kan worden geconcludeerd dat de geïdentificeerde genen en pathways voornamelijk betrokken zijn bij immuun- en ontstekingsprocessen die kenmerkend zijn voor reumatoïde artritis, wat de biologische relevantie van de gevonden differentiële genexpressie ondersteunt.
+
