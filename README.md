@@ -109,3 +109,4 @@ Tijdens het maken van deze Github-pagina, is er gebruik gemaakt van Ai. Specifie
 - Chatgpt is gebruikt om het Rscript te ordenen voordat deze in de map geplaatst werd.
 - Chatgpt is gebruikt voor het beter formuleren van tekst.
 - Chatgpt is gebruikt voor het beter inteperteren van de figuren.
+- Chatgpt is gebruikt voot het herschrijven van tekst voor een betere structuur.
