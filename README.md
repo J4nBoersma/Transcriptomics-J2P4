@@ -2,6 +2,24 @@
 
 ## Rheuma artritis - Transcriptomics - J2P4 Project 
 
+### Inhoud
+- `Assets/` - overige documtenten 
+
+- `data/ruw/` –  Bevat de ruwe sequencing datasets die als input dienen voor de analyse
+
+- `data/processed` - Bevat verwerkte datasets die zijn gegenereerd met behulp van scripts
+
+- `scripts/` – R -scripts voor data-analyse, verwerking en visualisatie
+
+- `resultaten/` - Output van de analyse, zoals grafieken, tabellen en figuren
+
+- `bronnen/` - Referenties en literatuur gebruikt binnen het project
+
+- `README.md` - Overzicht en uitleg van het project, inclusief doel, methode en resultaten
+
+- `data_stewardship/` - Voor de competentie beheren en uitleg over GitHub. 
+
+
 ## Inleiding
 
 Reumatoïde artritis (RA) is een chronische systemische auto-immuunziekte die wordt gekenmerkt door persisterende synovitis, een ontsteking van het gewrichtsslijmvlies. Deze ontsteking leidt tot progressieve gewrichtsschade, waaronder erosie van kraakbeen en bot, wat uiteindelijk kan resulteren in functieverlies en invaliditeit. De pathogenese van RA is complex en ontstaat door een samenspel van genetische aanleg, omgevingsfactoren en een ontregeld immuunsysteem. Hierbij spelen immuuncellen zoals T-cellen en B-cellen een centrale rol in het ontstekingsproces en de productie van autoantistoffen [Firestein et al., 2017](https://github.com/J4nBoersma/Jan-Boersma/blob/main/Bronnen/Firestein%20et%20al.%2C%202017.pdf).
