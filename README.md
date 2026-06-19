@@ -46,7 +46,8 @@ Voor visualisatie is een volcano plot gemaakt met EnhancedVolcano. Daarnaast zij
 Na het uitvoeren van de differentiële expressie-analyse tussen de RA en controlesamples op basis van de count matrix, zijn de resultaten uitgezet in een volcano plot. De volcano plot [Figuur 2.](https://github.com/J4nBoersma/Transcriptomics-J2P4/blob/main/Resultaten/Volcanoplot-WC3.png) toont meerdere significant differentieel geëxpresseerde genen tussen RA-patiënten en gezonde controles. Genen zoals *SRGN*, *BCL2A1* en *CXCR1* vertonen een verhoogde expressie in RA, terwijl *ANKRD30BL*, *MT-ND6* en *SLC9A3R2* juist een verlaagde expressie laten zien. Daarnaast lijkt het aantal significant neer-gereguleerde genen groter dan het aantal sterk op-gereguleerde genen. Deze resultaten wijzen op duidelijke veranderingen in genexpressie binnen het synoviale weefsel van RA-patiënten.
 
 
-![Volcano plot](Resultaten/Vulcanoplot-WC3.png)
+<img width="841" height="595" alt="Vulcanoplot-WC3" src="https://github.com/user-attachments/assets/7c56bfb8-e607-46b3-b336-ad45f147de8c" />
+
 
 <small><small>
 **Figuur 2.** *Volcano plot van de differentiële genexpressieanalyse tussen synoviumbiopten van RA-patiënten (n = 4) en gezonde controles (n = 4), uitgevoerd met DESeq2. De x-as geeft de log₂ fold change weer en de y-as de −log₁₀ p-waarde. Rode punten vertegenwoordigen genen met een significante verandering in expressie.*
