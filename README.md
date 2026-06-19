@@ -49,7 +49,7 @@ De KEGG pathway-analyse identificeerde verschillende significant verrijkte signa
 
 ---
 ### Go-Analyse
-De GO-verrijkingsanalyse liet zien dat de significant differentieel geëxprimeerde genen voornamelijk betrokken zijn bij immuungerelateerde processen [Figuur 4](. De sterkst verrijkte GO-termen waren onder andere lymphocyte differentiation, adaptive immune response en leukocyte mediated immunity. Daarnaast werden processen gerelateerd aan T-cel- en B-celactivatie significant verrijkt gevonden. Deze resultaten wijzen op een verhoogde activiteit van de adaptieve immuunrespons in het synovium van RA-patiënten ten opzichte van controles.
+De GO-verrijkingsanalyse liet zien dat de significant differentieel geëxprimeerde genen voornamelijk betrokken zijn bij immuungerelateerde processen [Figuur 4](https://github.com/J4nBoersma/Jan-Boersma/blob/main/Resultaten/Rplot%20-%20go.analyse.dotplot.png). De sterkst verrijkte GO-termen waren onder andere lymphocyte differentiation, adaptive immune response en leukocyte mediated immunity. Daarnaast werden processen gerelateerd aan T-cel- en B-celactivatie significant verrijkt gevonden. Deze resultaten wijzen op een verhoogde activiteit van de adaptieve immuunrespons in het synovium van RA-patiënten ten opzichte van controles.
 
 ![Dotplot Go-analyse](Resultaten/Rplot%20-%20go.analyse.dotplot.png)
 
