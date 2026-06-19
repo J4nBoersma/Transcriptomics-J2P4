@@ -3,19 +3,19 @@
 ## Rheuma artritis - Transcriptomics - J2P4 Project 
 
 ### Inhoud
-- `Assets/` - overige documtenten 
+- `Assets` - overige documtenten 
 
-- `Bronnen/` –  Bevat de gebruikte literatuur
+- `Bronnen` –  Bevat de gebruikte literatuur
 
-- `scripts/` – Bevat het gebruikte script voor de analyses
+- `scripts` – Bevat het gebruikte script voor de analyses
 
 - `Raw_data` - Bevat de ruwe data die gebruikt is voor de analyses
 
-- `Resultaten/` - Bevat de output van de analyses. Zoals: tabellen, figuren, plots
+- `Resultaten` - Bevat de output van de analyses. Zoals: tabellen, figuren, plots
 
 - `README.md` - Overzicht en uitleg van het project, inclusief doel, methode en resultaten
 
-- `data_stewardship/` - Voor de competentie beheren en uitleg over GitHub. 
+- `data_stewardship` - Voor de competentie beheren en uitleg over GitHub. 
 
 
 ## Inleiding
