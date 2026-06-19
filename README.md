@@ -8,6 +8,7 @@ Reumatoïde artritis (RA) is een chronische systemische auto-immuunziekte die wo
 Een belangrijk kenmerk van RA is de aanwezigheid van autoantistoffen zoals ACPA (anti-citrullinated protein antibodies), die vaak al jaren vóór het ontstaan van klinische symptomen aanwezig kunnen zijn. Vroege diagnose en behandeling zijn essentieel om blijvende gewrichtsschade te beperken. Hoewel therapieën zoals DMARD’s de ziekteactiviteit kunnen remmen, blijft RA ongeneeslijk en is er behoefte aan beter inzicht in de moleculaire mechanismen achter de ziekte (Smolen et al., 2016).
 Transcriptomics biedt hiervoor een krachtige methode om verschillen in genexpressie in ontstoken synovium te analyseren. Door middel van RNA-sequencing kunnen genen worden geïdentificeerd die differentieel tot expressie komen tussen RA-patiënten en controles. Vervolgens kan met Gene Ontology-analyse worden bepaald welke biologische processen en pathways betrokken zijn bij de ziekteontwikkeling.
 
+---
 ## Methode
 <img width="1536" height="1024" alt="ChatGPT Image Jun 18, 2026 at 01_59_02 PM" src="https://github.com/user-attachments/assets/06ed6154-cc72-489e-8a4f-5b4f23e5d839" />
 
@@ -32,6 +33,7 @@ De volcano plot (Figuur 1.) toont meerdere significant differentieel geëxpresse
 
 *Figuur 1. Volcano plot van de differentiële genexpressieanalyse tussen synoviumbiopten van RA-patiënten (n = 4) en gezonde controles (n = 4), uitgevoerd met DESeq2. De x-as geeft de log₂ fold change weer en de y-as de −log₁₀ p-waarde. Rode punten vertegenwoordigen genen met een significante verandering in expressie.*
 
+---
 ### Kegg-Analyse
 De KEGG pathway-analyse identificeerde verschillende significant verrijkte signaalroutes onder de differentieel geëxpresseerde genen (Figuur 2). De sterkst verrijkte pathway was de MAPK-signaling pathway, gevolgd door onder andere de Epstein–Barr virus infection-, NOD-like receptor signaling- en TNF signaling pathways. Daarnaast werden immuungerelateerde pathways zoals de NF-κB-, IL-17- en Th17 cell differentiation pathways significant verrijkt gevonden. Deze resultaten wijzen op een belangrijke betrokkenheid van ontstekings- en immuunresponsprocessen bij de pathogenese van reumatoïde artritis.
 
@@ -42,6 +44,7 @@ De KEGG pathway-analyse identificeerde verschillende significant verrijkte signa
 
 *Figuur 2. KEGG-analyse van differentieel tot expressie gebrachte genen tussen RA-patiënten en een gezonde controle. Dotplot van de verrijkte KEGG-pathways, waarbij de grootte van de punten het aantal genen per pathway weergeeft en de kleur de gecorrigeerde p-waarde representeert (Links). Barplot van de meest verrijkte KEGG-pathways, weergegeven op basis van het aantal tot expressie gebrachte genen (Rechts).*
 
+---
 ### Go-Analyse
 De GO-verrijkingsanalyse liet zien dat de significant differentieel geëxprimeerde genen voornamelijk betrokken zijn bij immuungerelateerde processen (Figuur 3). De sterkst verrijkte GO-termen waren onder andere lymphocyte differentiation, adaptive immune response en leukocyte mediated immunity. Daarnaast werden processen gerelateerd aan T-cel- en B-celactivatie significant verrijkt gevonden. Deze resultaten wijzen op een verhoogde activiteit van de adaptieve immuunrespons in het synovium van RA-patiënten ten opzichte van controles.
 
@@ -50,7 +53,7 @@ De GO-verrijkingsanalyse liet zien dat de significant differentieel geëxprimeer
 
 *Figuur 3. GO-enrichmentanalyse van differentieel tot expressie komende genen in synovium (RA vs. controle). De dotplot toont significante verrijkte biologische processen (padj < 0,05). De x-as geeft de GeneRatio weer, de grootte van de punten het aantal genen per term en de kleur de significantie.*
 
-
+---
 ### Pathwayview-Analyse
 Om de differentiële genexpressie binnen de context van een bekende ziekteroute te visualiseren, werden de expressiewaarden geprojecteerd op de KEGG Rheumatoid Arthritis pathway (hsa05323). De pathway-analyse liet zien dat meerdere genen betrokken bij ontstekings- en immuunprocessen differentieel tot expressie kwamen tussen RA-patiënten en controles. Met name componenten van cytokine-gemedieerde signaaltransductie, lymfocytactivatie en ontstekingsroutes vertoonden veranderingen in expressie. Deze bevindingen ondersteunen de resultaten van de GO- en KEGG-verrijkingsanalyses, waar eveneens een sterke betrokkenheid van immuun- en ontstekingsgerelateerde processen werd gevonden. De geobserveerde expressieveranderingen binnen de RA-pathway zijn consistent met de bekende pathogenese van reumatoïde artritis
 
@@ -60,5 +63,5 @@ Om de differentiële genexpressie binnen de context van een bekende ziekteroute 
 </p>
 
 
-
+---
 ## Conclusie
