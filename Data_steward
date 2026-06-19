@@ -1,6 +1,4 @@
-Uitleg over een efficiënte en gestructureerde manier van beheren. 
 
-Enkele hulpvragen staan hieronder weergeven. Dit zijn enkele voorbeelden om te schetsen wat er van je verwacht wordt. Denk dus ook zelf goed na over het beheren van data, het belang hiervan en hoe je dat vorm kunt geven!
 
 **- Waarom is dit een belangrijk onderdeel van onderzoek doen?**
 *Stewardship is belangrijk in een onderzoek, omdat het bijdraagt aan het zorgvuldig en verantwoord omgaan met data. Dit houdt in dat de data op een correcte manier wordt opgeslagen, en dat er duidelijk wordt beschreven hoe er met de data omgegaan is. Om het onderzoek reproduceerbaar te houden.*
@@ -10,9 +8,30 @@ Enkele hulpvragen staan hieronder weergeven. Dit zijn enkele voorbeelden om te s
 
 - Wat is een handige manier voor de naamgeving van bestanden en waarom?
 
+**2026-06-19_dataonderzoek_resultaten_v1.png**
+Overzichtelijk: je ziet meteen waar het bestand over gaat
+Terug te vinden: je kunt het makkelijk terugzoeken
+Datum erbij: je weet welke versie het meest recent is
+Versiebeheer: je voorkomt verwarring tussen oude en nieuwe bestanden
+Samenwerken: anderen begrijpen sneller wat het bestand bevat
+
 - Wat houdt versiebeheer in en waarom doe je dit?
+*versiebeheer houdt in dat je de versie aangeeft bij je bestanden zodat anderen weten wat de nieuwste versie van een bepaald bestand is.
+
 - Hoe zorg je voor goede documentatie in scripts?
-- Wat voor platforms kan je gebruiken om scripts te delen?
+*Door je code te voorzien van duidelijke commentaarregels met een "#" ervoor. Zodat andere lezers weten wat er bij elke stap gedaan is.
+
+-Wat voor platforms kan je gebruiken om scripts te delen?
+*Github, Googledrive, Bitbucket.
+
 - Welke tools gebruik je voor data-analyse, zoals bijvoorbeeld voor het veilig opslaan van data?
+*Een cloud zodat je altijd bij je data kunt, een Zipbestand met eventueel een code, als de data veilig bewaakt moet worden. En duidelijke naamgeving zodat je niet in de war raakt.
+
 - Hoe zou je omgaan met gevoelige of persoonlijke data?
+*Data versleutelen dmv een zipbestand. Data anonimiseren zodat niet iedereen weet om wiens data het gaat in geval van een datalek. En ervoor zorgen dat alleen bevoegden de data kunnen inzien.
+
 - Wat is het belang van open data en het publiceren van datasets?
+Zorgt voor transparantie
+Maakt onderzoek controleerbaar en herhaalbaar
+Stimuleert nieuwe inzichten en samenwerking
+Voorkomt dat werk dubbel gedaan wordt
