@@ -1,0 +1,32 @@
+Ik heb mijn projectgegevens beheerd via Github door alle bestanden, scripts en documentatie op een gestructureerde manier in de repository te plaatsen.
+Structuur en overzicht
+Ik heb een duidelijke mappenstructuur gebruikt:
+- Assets
+- Bronnen
+- Competenties
+- Rawdata
+- Resultaten 
+- Script
+- READ.ME
+Door deze structuur is alles makkelijk terug te vinden en is het voor iemand anders duidelijk waar welke informatie staat.
+ 
+Bijdrage aan reproduceerbaarheid
+Mijn GitHub-pagina draagt bij aan reproduceerbaarheid omdat:
+-	Alle stappen van het onderzoek zijn gedocumenteerd in het  READ.ME-bestand.
+-	Data en code samen beschikbaar zijn, zodat het onderzoek opnieuw uitgevoerd kan worden.
+-	Er duidelijk staat uitgelegd hoe de code gebruikt moet worden in het script.
+Hierdoor kan iemand anders exact dezelfde resultaten opnieuw genereren. En is het onderzoek dus reproduceerbaar.
+ 
+Gebruiksvriendelijkheid voor anderen
+De repository is zo ingericht dat iemand anders het onderzoek kan herhalen. Door:
+-	Duidelijke bestandsnamen
+-	Een logische mappenstructuur
+-	Een README met uitleg over het project
+-	Een stapsgewijs script
+ 
+Versiebeheer
+Versiebeheer heb ik toegepast via GitHub commits:
+-	Elke verandering is opgeslagen met een duidelijke beschrijving
+-	Oude versies blijven beschikbaar
+-	Fouten kunnen worden teruggedraaid
+-	Je kunt precies zien welke aanpassingen wanneer zijn gedaan
