@@ -9,7 +9,9 @@
 
 - `scripts/` – Bevat het gebruikte script voor de analyses
 
-- `resultaten/` - Bevat de output van de analyses. Zoals: tabellen, figuren, plots
+- `Raw_data` - Bevat de ruwe data die gebruikt is voor de analyses
+
+- `Resultaten/` - Bevat de output van de analyses. Zoals: tabellen, figuren, plots
 
 - `README.md` - Overzicht en uitleg van het project, inclusief doel, methode en resultaten
 
