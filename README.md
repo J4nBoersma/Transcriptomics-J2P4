@@ -26,12 +26,14 @@ Voor visualisatie is een volcano plot gegenereerd met EnhancedVolcano. Daarnaast
 
 
 ### Volcano plot
-De volcano plot (Figuur 1.) toont meerdere significant differentieel geëxpresseerde genen tussen RA-patiënten en gezonde controles. Genen zoals *SRGN*, *BCL2A1* en *CXCR1* vertonen een verhoogde expressie in RA, terwijl *ANKRD30BL*, *MT-ND6* en *SLC9A3R2* juist een verlaagde expressie laten zien. Daarnaast lijkt het aantal significant neer-gereguleerde genen groter dan het aantal sterk op-gereguleerde genen. Deze resultaten wijzen op duidelijke veranderingen in genexpressie binnen het synoviale weefsel van RA-patiënten.
+Na het uitvoeren van de differentiële expressie-analyse tussen de RA en controlesamples op basis van de count matrix, zijn de resultaten uitgezet in een volcano plot. De volcano plot (Figuur 1.) toont meerdere significant differentieel geëxpresseerde genen tussen RA-patiënten en gezonde controles. Genen zoals *SRGN*, *BCL2A1* en *CXCR1* vertonen een verhoogde expressie in RA, terwijl *ANKRD30BL*, *MT-ND6* en *SLC9A3R2* juist een verlaagde expressie laten zien. Daarnaast lijkt het aantal significant neer-gereguleerde genen groter dan het aantal sterk op-gereguleerde genen. Deze resultaten wijzen op duidelijke veranderingen in genexpressie binnen het synoviale weefsel van RA-patiënten.
 
 
 ![Volcano plot](Resultaten/Vulcanoplot-WC3.png)
 
-*Figuur 1. Volcano plot van de differentiële genexpressieanalyse tussen synoviumbiopten van RA-patiënten (n = 4) en gezonde controles (n = 4), uitgevoerd met DESeq2. De x-as geeft de log₂ fold change weer en de y-as de −log₁₀ p-waarde. Rode punten vertegenwoordigen genen met een significante verandering in expressie.*
+<small><small>
+**Figuur 1.** *Volcano plot van de differentiële genexpressieanalyse tussen synoviumbiopten van RA-patiënten (n = 4) en gezonde controles (n = 4), uitgevoerd met DESeq2. De x-as geeft de log₂ fold change weer en de y-as de −log₁₀ p-waarde. Rode punten vertegenwoordigen genen met een significante verandering in expressie.*
+</small></small>
 
 ---
 ### Kegg-Analyse
@@ -42,7 +44,9 @@ De KEGG pathway-analyse identificeerde verschillende significant verrijkte signa
   <img src="Resultaten/Rplot - balken.kegg.png" width="49%" />
 </p> 
 
-*Figuur 2. KEGG-analyse van differentieel tot expressie gebrachte genen tussen RA-patiënten en een gezonde controle. Dotplot van de verrijkte KEGG-pathways, waarbij de grootte van de punten het aantal genen per pathway weergeeft en de kleur de gecorrigeerde p-waarde representeert (Links). Barplot van de meest verrijkte KEGG-pathways, weergegeven op basis van het aantal tot expressie gebrachte genen (Rechts).*
+<small><small>
+**Figuur 2.** *KEGG-analyse van differentieel tot expressie gebrachte genen tussen RA-patiënten en een gezonde controle. Dotplot van de verrijkte KEGG-pathways, waarbij de grootte van de punten het aantal genen per pathway weergeeft en de kleur de gecorrigeerde p-waarde representeert (Links). Barplot van de meest verrijkte KEGG-pathways, weergegeven op basis van het aantal tot expressie gebrachte genen (Rechts).*
+</small></small>
 
 ---
 ### Go-Analyse
@@ -51,7 +55,7 @@ De GO-verrijkingsanalyse liet zien dat de significant differentieel geëxprimeer
 ![Dotplot Go-analyse](Resultaten/Rplot%20-%20go.analyse.dotplot.png)
 
 
-*Figuur 3. GO-enrichmentanalyse van differentieel tot expressie komende genen in synovium (RA vs. controle). De dotplot toont significante verrijkte biologische processen (padj < 0,05). De x-as geeft de GeneRatio weer, de grootte van de punten het aantal genen per term en de kleur de significantie.*
+**Figuur 3.** *GO-enrichmentanalyse van differentieel tot expressie komende genen in synovium (RA vs. controle). De dotplot toont significante verrijkte biologische processen (padj < 0,05). De x-as geeft de GeneRatio weer, de grootte van de punten het aantal genen per term en de kleur de significantie.*
 
 ---
 ### Pathwayview-Analyse
