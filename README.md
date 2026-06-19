@@ -101,3 +101,9 @@ Op basis van deze resultaten kan worden geconcludeerd dat de geïdentificeerde g
 
 - Smolen, J. S., Aletaha, D., McInnes, I. B., Division of Rheumatology, Department of Medicine 3, Medical University of Vienna, Vienna, Austria, 2nd Department of Medicine, Hietzing Hospital Vienna, Vienna, Austria, & Institute of Infection, Immunity and Inflammation, University of Glasgow, Glasgow, UK. (2016). Rheumatoid arthritis. In Seminar (Vol. 388, pp. 2023–2038). http://dx.doi.org/10.1016/S0140-6736(16)30173-8
 
+## ⚠️ AI-Disclaimer
+Tijdens het maken van deze Github-pagina, is er gebruik gemaakt van Ai. Specifiek: Chatgpt. 
+- Chatgpt is gebruikt om de flowchart te genereren.
+- Chatgpt is gebruikt om het Rscript te ordenen voordat deze in de map geplaatst werd.
+- Chatgpt is gebruikt voor het beter formuleren van tekst.
+- Chatgpt is gebruikt voor het beter inteperteren van de figuren.
