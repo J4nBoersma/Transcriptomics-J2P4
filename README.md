@@ -55,7 +55,7 @@ De GO-verrijkingsanalyse liet zien dat de significant differentieel geëxprimeer
 **Figuur 3.** *GO-enrichmentanalyse van differentieel tot expressie komende genen in synovium (RA vs. controle). De dotplot toont significante verrijkte biologische processen (padj < 0,05). De x-as geeft de GeneRatio weer, de grootte van de punten het aantal genen per term en de kleur de significantie.*
 
 ---
-### Pathwayview-Analyse
+### Pathwayview-Visualisatie Analyse
 Om de differentiële genexpressie binnen de context van een bekende ziekteroute te visualiseren, werden de expressiewaarden geprojecteerd op de KEGG Rheumatoid Arthritis pathway (hsa05323). De pathway-analyse liet zien dat meerdere genen betrokken bij ontstekings- en immuunprocessen differentieel tot expressie kwamen tussen RA-patiënten en controles. Met name componenten van cytokine-gemedieerde signaaltransductie, lymfocytactivatie en ontstekingsroutes vertoonden veranderingen in expressie. Deze bevindingen ondersteunen de resultaten van de GO- en KEGG-verrijkingsanalyses, waar eveneens een sterke betrokkenheid van immuun- en ontstekingsgerelateerde processen werd gevonden. De geobserveerde expressieveranderingen binnen de RA-pathway zijn consistent met de bekende pathogenese van reumatoïde artritis
 
 <p align="center">
