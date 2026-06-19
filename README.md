@@ -36,7 +36,7 @@ Na het uitvoeren van de differentiële expressie-analyse tussen de RA en control
 
 ---
 ### Kegg-Analyse
-De KEGG pathway-analyse identificeerde verschillende significant verrijkte signaalroutes onder de differentieel geëxpresseerde genen (Figuur 3). De sterkst verrijkte pathway was de MAPK-signaling pathway, gevolgd door onder andere de Epstein–Barr virus infection-, NOD-like receptor signaling- en TNF signaling pathways. Daarnaast werden immuungerelateerde pathways zoals de NF-κB-, IL-17- en Th17 cell differentiation pathways significant verrijkt gevonden. Deze resultaten wijzen op een belangrijke betrokkenheid van ontstekings- en immuunresponsprocessen bij de pathogenese van reumatoïde artritis.
+De KEGG pathway-analyse identificeerde verschillende significant verrijkte signaalroutes onder de differentieel geëxpresseerde genen [Figuur 3.]( De sterkst verrijkte pathway was de MAPK-signaling pathway, gevolgd door onder andere de Epstein–Barr virus infection-, NOD-like receptor signaling- en TNF signaling pathways. Daarnaast werden immuungerelateerde pathways zoals de NF-κB-, IL-17- en Th17 cell differentiation pathways significant verrijkt gevonden. Deze resultaten wijzen op een belangrijke betrokkenheid van ontstekings- en immuunresponsprocessen bij de pathogenese van reumatoïde artritis.
 
 <p align="center">
   <img src="Resultaten/Rplot - dotplot kegg png.png" width="49%" />
