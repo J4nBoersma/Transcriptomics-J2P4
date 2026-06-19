@@ -5,15 +5,11 @@
 ### Inhoud
 - `Assets/` - overige documtenten 
 
-- `data/ruw/` –  Bevat de ruwe sequencing datasets die als input dienen voor de analyse
+- `Bronnen/` –  Bevat de gebruikte literatuur
 
-- `data/processed` - Bevat verwerkte datasets die zijn gegenereerd met behulp van scripts
+- `scripts/` – Bevat het gebruikte script voor de analyses
 
-- `scripts/` – R -scripts voor data-analyse, verwerking en visualisatie
-
-- `resultaten/` - Output van de analyse, zoals grafieken, tabellen en figuren
-
-- `bronnen/` - Referenties en literatuur gebruikt binnen het project
+- `resultaten/` - Bevat de output van de analyses. Zoals: tabellen, figuren, plots
 
 - `README.md` - Overzicht en uitleg van het project, inclusief doel, methode en resultaten
 
