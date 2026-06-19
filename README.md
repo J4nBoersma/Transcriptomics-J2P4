@@ -7,15 +7,16 @@
 
 - `Bronnen` –  Bevat de gebruikte literatuur
 
-- `scripts` – Bevat het gebruikte script voor de analyses
+- `Competenties` - Bevat de Data Stewardsship bestanden en bestanden over het gebruik van Github
 
 - `Raw_data` - Bevat de ruwe data die gebruikt is voor de analyses
 
 - `Resultaten` - Bevat de output van de analyses. Zoals: tabellen, figuren, plots
 
-- `README.md` - Overzicht en uitleg van het project, inclusief doel, methode en resultaten
+- `Script` – Bevat het gebruikte script voor de analyses
 
-- `data_stewardship` - Voor de competentie beheren en uitleg over GitHub. 
+- `README.md` - Overzicht en uitleg van het project, inclusief doel, methode en resultaten
+ 
 
 
 ## Inleiding
