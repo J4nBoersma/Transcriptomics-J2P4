@@ -94,8 +94,10 @@ Daarnaast liet de Pathview-visualisatie van de Rheumatoid arthritis-pathway zien
 Op basis van deze resultaten kan worden geconcludeerd dat de geïdentificeerde genen en pathways voornamelijk betrokken zijn bij immuun- en ontstekingsprocessen die kenmerkend zijn voor reumatoïde artritis, wat de biologische relevantie van de gevonden differentiële genexpressie ondersteunt.
 
 ## Bronnen
+
+- Firestein, G. S., McInnes, I. B., University of California San Diego, & Institute of Infection Immunity and Inflammation, University of Glasgow. (2017). Immunopathogenesis of Rheumatoid Arthritis. In Immunity (Vol. 46, p. 183) [Journal-article]. https://doi.org/10.1016/j.immuni.2017.02.006
+
 - Platzer, A., Nussbaumer, T., Karonitsch, T., Smolen, J. S., & Aletaha, D. (2019). Analysis of gene expression in rheumatoid arthritis   and related conditions offers insights into sex-bias, gene biotypes and co-expression patterns. PLoS ONE, 14(7), e0219698.     https://doi.org/10.1371/journal.pone.0219698
 
 - Smolen, J. S., Aletaha, D., McInnes, I. B., Division of Rheumatology, Department of Medicine 3, Medical University of Vienna, Vienna, Austria, 2nd Department of Medicine, Hietzing Hospital Vienna, Vienna, Austria, & Institute of Infection, Immunity and Inflammation, University of Glasgow, Glasgow, UK. (2016). Rheumatoid arthritis. In Seminar (Vol. 388, pp. 2023–2038). http://dx.doi.org/10.1016/S0140-6736(16)30173-8
 
-- 
